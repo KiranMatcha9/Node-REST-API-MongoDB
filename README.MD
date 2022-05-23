@@ -14,4 +14,4 @@ POST - localhost:3000/subscribers\
 GET  - localhost:3000/subscribers\
 GET  - localhost:3000/subscribers/:id\
 PATCH - localhost:3000/subscribers/:id\
-DELETE - localhost:3000/subscribers/:id\
+DELETE - localhost:3000/subscribers/:id
